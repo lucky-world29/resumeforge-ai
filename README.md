@@ -1,3 +1,4 @@
+
 # ResumeForge AI
 
 ResumeForge AI is a premium single-page resume builder built with React + Vite, Tailwind CSS, Framer Motion, and Lucide icons. It delivers a polished dark SaaS interface, live preview, local AI assistance, export tools, and localStorage persistence with no backend required.
@@ -76,3 +77,6 @@ npm run preview
 - The AI features are implemented client-side using smart local heuristics so the app runs without secrets or backend services.
 - For real LLM integration, replace the helper functions in `src/lib/ai.js` with your preferred AI API.
 - Local storage keys used by the app: `resumeforge-ai-state` and `resumeforge-ai-library`.
+=======
+# resumeforge-ai
+
