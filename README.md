@@ -1,6 +1,7 @@
 
 
 
+
 # ResumeForge AI
 
 ResumeForge AI is a premium single-page resume builder built with React + Vite, Tailwind CSS, Framer Motion, and Lucide icons. It delivers a polished dark SaaS interface, live preview, local AI assistance, export tools, and localStorage persistence with no backend required.
